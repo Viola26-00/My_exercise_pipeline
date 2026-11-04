@@ -1,0 +1,16 @@
+# BLASTX 2.17.0+
+# Query: Localseq_intron1_length27
+# Database: ../Lecture_06/nem
+# 0 hits found
+# BLASTX 2.17.0+
+# Query: Remoteseq_noncoding1_length28
+# Database: ../Lecture_06/nem
+# 0 hits found
+# BLASTX 2.17.0+
+# Query: Remoteseq_noncoding2_length399
+# Database: ../Lecture_06/nem
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+Remoteseq_noncoding2_length399	gi|402589675|gb|EJW83606.1|	36.111	36	23	0	188	295	147	182	6.6	27.3
+Remoteseq_noncoding2_length399	gi|341897603|gb|EGT53538.1|	30.952	42	29	0	7	132	139	180	8.8	26.9
+# BLAST processed 3 queries
